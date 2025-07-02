@@ -1,2 +1,2 @@
 # VSDM
-The code will be released in May 2025.
+The code will be released in 2025.
